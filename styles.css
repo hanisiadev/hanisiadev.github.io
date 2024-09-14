@@ -1,0 +1,96 @@
+@media (max-width : 320px ){
+}
+
+body {
+   	background: rgb(255,206,239);
+    background: -webkit-linear-gradient(bottom, rgba(255,206,239,1) 0%, rgba(216,166,255,1) 46%, rgba(199,209,255,1) 100%);
+    background: -o-linear-gradient(bottom, rgba(255,206,239,1) 0%, rgba(216,166,255,1) 46%, rgba(199,209,255,1) 100%);
+    background: linear-gradient(to top, rgba(255,206,239,1) 0%, rgba(216,166,255,1) 46%, rgba(199,209,255,1) 100%);
+}
+
+.main {
+    width: 90%;
+    background-color: #FFCEEF;
+    margin-left: 5%;
+    height: 6250px;
+    margin-bottom: 20px;
+    padding-top: 5px;
+    margin-top: 25px;
+    border-radius: 25px;
+}
+
+.logo {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.logoimage {
+    width: auto;
+    font-size: 50px;
+	font-family: "Josefin Sans", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 400;
+  	font-style: normal;
+}
+
+.paragraph {
+	font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+	height: 15.5%;
+	
+}
+
+.aboutme {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.link {
+    text-decoration: none;
+	color: black;
+}
+
+.link:hover {
+    text-decoration: overline,underline;
+    color: darkslategray;
+}
+
+
+img {
+	width: auto;
+	height: auto;
+	max-height: 100%;
+}
+
+.img {
+	height: 500px;    
+	width: auto;
+	margin: 10px;
+	align-self: center;
+	align-content: center;
+}
+
+.imgirr {
+    height: 675px;
+	width: auto;
+	margin: 10px;
+}
+
+.end {
+	padding-top: 33px;
+	font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+footer {
+    margin-top: 5px;
+    margin-bottom: 5px;
+	font-family: "Roboto Condensed", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 500;
+  	font-style: normal;
+}
+
