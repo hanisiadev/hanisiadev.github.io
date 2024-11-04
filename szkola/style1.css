@@ -1,0 +1,23 @@
+a {
+    text-decoration: none !important;
+    text-decoration-line: none;
+    color: black;
+}
+
+a:hover {
+    color: red;
+    text-decoration: wavy;
+    cursor: crosshair;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
